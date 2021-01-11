@@ -9,6 +9,6 @@ TODO:
 
 -- Сконфигурировать Hue+Hadoop
 
--- Сконфигурировать Hue+Airflow
+-- Сконфигурировать Airflow+Hadoop
 
--- Сконфигурировать Hue+MLFlow
+-- Сконфигурировать MLFlow+Hadoop
