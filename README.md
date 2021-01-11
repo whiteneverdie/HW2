@@ -12,3 +12,5 @@ TODO:
 -- Сконфигурировать Airflow+Hadoop
 
 -- Сконфигурировать MLFlow+Hadoop
+
+-- Отвалился Apache Zeppelin
