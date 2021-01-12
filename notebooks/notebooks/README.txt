@@ -13,3 +13,4 @@
 
 02_read_kafka_spark.ipynb
 -- основной ворфлоу -- поэтапное тестирование spark-kafka интеграции 
+![jupyter_kafka_look](https://user-images.githubusercontent.com/42961726/104262349-7a62f580-5498-11eb-8858-9d4e80cc9bf3.png)
